@@ -1,3 +1,2 @@
-master1
-bug
+master
 
